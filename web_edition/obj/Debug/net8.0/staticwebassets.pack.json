@@ -1,0 +1,2485 @@
+{
+  "Files": [
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/obj/Debug/net8.0/scopedcss/projectbundle/ReactAspNetApp.bundle.scp.css",
+      "PackagePath": "staticwebassets/ReactAspNetApp.bundle.scp.css"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/asset-manifest.json",
+      "PackagePath": "staticwebassets/asset-manifest.json"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/logo192.png",
+      "PackagePath": "staticwebassets/logo192.png"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/logo512.png",
+      "PackagePath": "staticwebassets/logo512.png"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/manifest.json",
+      "PackagePath": "staticwebassets/manifest.json"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/robots.txt",
+      "PackagePath": "staticwebassets/robots.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/css/main.e6c13ad2.css",
+      "PackagePath": "staticwebassets/static/css/main.e6c13ad2.css"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/css/main.e6c13ad2.css.map",
+      "PackagePath": "staticwebassets/static/css/main.e6c13ad2.css.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/css/main.f855e6bc.css",
+      "PackagePath": "staticwebassets/static/css/main.f855e6bc.css"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/css/main.f855e6bc.css.map",
+      "PackagePath": "staticwebassets/static/css/main.f855e6bc.css.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/341.2f798ef1.chunk.js",
+      "PackagePath": "staticwebassets/static/js/341.2f798ef1.chunk.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/341.2f798ef1.chunk.js.map",
+      "PackagePath": "staticwebassets/static/js/341.2f798ef1.chunk.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/8.7d39aa76.chunk.js",
+      "PackagePath": "staticwebassets/static/js/8.7d39aa76.chunk.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/8.7d39aa76.chunk.js.map",
+      "PackagePath": "staticwebassets/static/js/8.7d39aa76.chunk.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/980.261f697f.chunk.js",
+      "PackagePath": "staticwebassets/static/js/980.261f697f.chunk.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/980.261f697f.chunk.js.map",
+      "PackagePath": "staticwebassets/static/js/980.261f697f.chunk.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.01964983.js",
+      "PackagePath": "staticwebassets/static/js/main.01964983.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.01964983.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.01964983.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.01964983.js.map",
+      "PackagePath": "staticwebassets/static/js/main.01964983.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.0204764a.js",
+      "PackagePath": "staticwebassets/static/js/main.0204764a.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.0204764a.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.0204764a.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.0204764a.js.map",
+      "PackagePath": "staticwebassets/static/js/main.0204764a.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.023845cd.js",
+      "PackagePath": "staticwebassets/static/js/main.023845cd.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.023845cd.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.023845cd.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.023845cd.js.map",
+      "PackagePath": "staticwebassets/static/js/main.023845cd.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.023c1550.js",
+      "PackagePath": "staticwebassets/static/js/main.023c1550.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.023c1550.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.023c1550.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.023c1550.js.map",
+      "PackagePath": "staticwebassets/static/js/main.023c1550.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.030c022b.js",
+      "PackagePath": "staticwebassets/static/js/main.030c022b.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.030c022b.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.030c022b.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.030c022b.js.map",
+      "PackagePath": "staticwebassets/static/js/main.030c022b.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.03c9b7c7.js",
+      "PackagePath": "staticwebassets/static/js/main.03c9b7c7.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.03c9b7c7.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.03c9b7c7.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.03c9b7c7.js.map",
+      "PackagePath": "staticwebassets/static/js/main.03c9b7c7.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.05ce4a04.js",
+      "PackagePath": "staticwebassets/static/js/main.05ce4a04.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.05ce4a04.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.05ce4a04.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.05ce4a04.js.map",
+      "PackagePath": "staticwebassets/static/js/main.05ce4a04.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.08370fe6.js",
+      "PackagePath": "staticwebassets/static/js/main.08370fe6.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.08370fe6.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.08370fe6.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.08370fe6.js.map",
+      "PackagePath": "staticwebassets/static/js/main.08370fe6.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.08c2f2f6.js",
+      "PackagePath": "staticwebassets/static/js/main.08c2f2f6.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.08c2f2f6.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.08c2f2f6.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.08c2f2f6.js.map",
+      "PackagePath": "staticwebassets/static/js/main.08c2f2f6.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.0922c915.js",
+      "PackagePath": "staticwebassets/static/js/main.0922c915.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.0922c915.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.0922c915.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.0922c915.js.map",
+      "PackagePath": "staticwebassets/static/js/main.0922c915.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.0924028c.js",
+      "PackagePath": "staticwebassets/static/js/main.0924028c.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.0924028c.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.0924028c.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.0924028c.js.map",
+      "PackagePath": "staticwebassets/static/js/main.0924028c.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.0b2148f1.js",
+      "PackagePath": "staticwebassets/static/js/main.0b2148f1.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.0b2148f1.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.0b2148f1.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.0b2148f1.js.map",
+      "PackagePath": "staticwebassets/static/js/main.0b2148f1.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.0c535602.js",
+      "PackagePath": "staticwebassets/static/js/main.0c535602.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.0c535602.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.0c535602.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.0c535602.js.map",
+      "PackagePath": "staticwebassets/static/js/main.0c535602.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.0cfec8a2.js",
+      "PackagePath": "staticwebassets/static/js/main.0cfec8a2.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.0cfec8a2.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.0cfec8a2.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.0cfec8a2.js.map",
+      "PackagePath": "staticwebassets/static/js/main.0cfec8a2.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.0d9081d8.js",
+      "PackagePath": "staticwebassets/static/js/main.0d9081d8.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.0d9081d8.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.0d9081d8.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.0d9081d8.js.map",
+      "PackagePath": "staticwebassets/static/js/main.0d9081d8.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.0e5c389d.js",
+      "PackagePath": "staticwebassets/static/js/main.0e5c389d.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.0e5c389d.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.0e5c389d.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.0e5c389d.js.map",
+      "PackagePath": "staticwebassets/static/js/main.0e5c389d.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.0f212026.js",
+      "PackagePath": "staticwebassets/static/js/main.0f212026.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.0f212026.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.0f212026.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.0f212026.js.map",
+      "PackagePath": "staticwebassets/static/js/main.0f212026.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.0fd14610.js",
+      "PackagePath": "staticwebassets/static/js/main.0fd14610.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.0fd14610.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.0fd14610.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.0fd14610.js.map",
+      "PackagePath": "staticwebassets/static/js/main.0fd14610.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.10636656.js",
+      "PackagePath": "staticwebassets/static/js/main.10636656.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.10636656.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.10636656.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.10636656.js.map",
+      "PackagePath": "staticwebassets/static/js/main.10636656.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.14fc6cf8.js",
+      "PackagePath": "staticwebassets/static/js/main.14fc6cf8.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.14fc6cf8.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.14fc6cf8.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.14fc6cf8.js.map",
+      "PackagePath": "staticwebassets/static/js/main.14fc6cf8.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.15970229.js",
+      "PackagePath": "staticwebassets/static/js/main.15970229.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.15970229.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.15970229.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.15970229.js.map",
+      "PackagePath": "staticwebassets/static/js/main.15970229.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.159f9e1b.js",
+      "PackagePath": "staticwebassets/static/js/main.159f9e1b.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.159f9e1b.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.159f9e1b.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.159f9e1b.js.map",
+      "PackagePath": "staticwebassets/static/js/main.159f9e1b.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.16f15e7b.js",
+      "PackagePath": "staticwebassets/static/js/main.16f15e7b.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.16f15e7b.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.16f15e7b.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.16f15e7b.js.map",
+      "PackagePath": "staticwebassets/static/js/main.16f15e7b.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.17c54a4a.js",
+      "PackagePath": "staticwebassets/static/js/main.17c54a4a.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.17c54a4a.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.17c54a4a.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.17c54a4a.js.map",
+      "PackagePath": "staticwebassets/static/js/main.17c54a4a.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.187ed95d.js",
+      "PackagePath": "staticwebassets/static/js/main.187ed95d.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.187ed95d.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.187ed95d.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.187ed95d.js.map",
+      "PackagePath": "staticwebassets/static/js/main.187ed95d.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.188f93c2.js",
+      "PackagePath": "staticwebassets/static/js/main.188f93c2.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.188f93c2.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.188f93c2.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.188f93c2.js.map",
+      "PackagePath": "staticwebassets/static/js/main.188f93c2.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.1b88c582.js",
+      "PackagePath": "staticwebassets/static/js/main.1b88c582.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.1b88c582.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.1b88c582.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.1b88c582.js.map",
+      "PackagePath": "staticwebassets/static/js/main.1b88c582.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.1b9f0d4a.js",
+      "PackagePath": "staticwebassets/static/js/main.1b9f0d4a.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.1b9f0d4a.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.1b9f0d4a.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.1b9f0d4a.js.map",
+      "PackagePath": "staticwebassets/static/js/main.1b9f0d4a.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.1c618495.js",
+      "PackagePath": "staticwebassets/static/js/main.1c618495.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.1c618495.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.1c618495.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.1c618495.js.map",
+      "PackagePath": "staticwebassets/static/js/main.1c618495.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.1e9de547.js",
+      "PackagePath": "staticwebassets/static/js/main.1e9de547.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.1e9de547.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.1e9de547.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.1e9de547.js.map",
+      "PackagePath": "staticwebassets/static/js/main.1e9de547.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.1ec9e99a.js",
+      "PackagePath": "staticwebassets/static/js/main.1ec9e99a.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.1ec9e99a.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.1ec9e99a.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.1ec9e99a.js.map",
+      "PackagePath": "staticwebassets/static/js/main.1ec9e99a.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.1f32f9fa.js",
+      "PackagePath": "staticwebassets/static/js/main.1f32f9fa.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.1f32f9fa.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.1f32f9fa.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.1f32f9fa.js.map",
+      "PackagePath": "staticwebassets/static/js/main.1f32f9fa.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.204bc4d6.js",
+      "PackagePath": "staticwebassets/static/js/main.204bc4d6.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.204bc4d6.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.204bc4d6.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.204bc4d6.js.map",
+      "PackagePath": "staticwebassets/static/js/main.204bc4d6.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.21202c03.js",
+      "PackagePath": "staticwebassets/static/js/main.21202c03.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.21202c03.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.21202c03.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.21202c03.js.map",
+      "PackagePath": "staticwebassets/static/js/main.21202c03.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.21b7473a.js",
+      "PackagePath": "staticwebassets/static/js/main.21b7473a.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.21b7473a.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.21b7473a.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.21b7473a.js.map",
+      "PackagePath": "staticwebassets/static/js/main.21b7473a.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.2652428e.js",
+      "PackagePath": "staticwebassets/static/js/main.2652428e.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.2652428e.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.2652428e.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.2652428e.js.map",
+      "PackagePath": "staticwebassets/static/js/main.2652428e.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.26f5a722.js",
+      "PackagePath": "staticwebassets/static/js/main.26f5a722.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.26f5a722.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.26f5a722.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.26f5a722.js.map",
+      "PackagePath": "staticwebassets/static/js/main.26f5a722.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.2788404e.js",
+      "PackagePath": "staticwebassets/static/js/main.2788404e.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.2788404e.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.2788404e.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.2788404e.js.map",
+      "PackagePath": "staticwebassets/static/js/main.2788404e.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.2991975f.js",
+      "PackagePath": "staticwebassets/static/js/main.2991975f.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.2991975f.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.2991975f.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.2991975f.js.map",
+      "PackagePath": "staticwebassets/static/js/main.2991975f.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.2c689942.js",
+      "PackagePath": "staticwebassets/static/js/main.2c689942.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.2c689942.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.2c689942.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.2c689942.js.map",
+      "PackagePath": "staticwebassets/static/js/main.2c689942.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.2dffc624.js",
+      "PackagePath": "staticwebassets/static/js/main.2dffc624.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.2dffc624.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.2dffc624.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.2dffc624.js.map",
+      "PackagePath": "staticwebassets/static/js/main.2dffc624.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.2ed317b0.js",
+      "PackagePath": "staticwebassets/static/js/main.2ed317b0.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.2ed317b0.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.2ed317b0.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.2ed317b0.js.map",
+      "PackagePath": "staticwebassets/static/js/main.2ed317b0.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.2fc428c0.js",
+      "PackagePath": "staticwebassets/static/js/main.2fc428c0.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.2fc428c0.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.2fc428c0.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.2fc428c0.js.map",
+      "PackagePath": "staticwebassets/static/js/main.2fc428c0.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.2fdd8e03.js",
+      "PackagePath": "staticwebassets/static/js/main.2fdd8e03.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.2fdd8e03.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.2fdd8e03.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.2fdd8e03.js.map",
+      "PackagePath": "staticwebassets/static/js/main.2fdd8e03.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.31a02978.js",
+      "PackagePath": "staticwebassets/static/js/main.31a02978.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.31a02978.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.31a02978.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.31a02978.js.map",
+      "PackagePath": "staticwebassets/static/js/main.31a02978.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.3bc5f54d.js",
+      "PackagePath": "staticwebassets/static/js/main.3bc5f54d.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.3bc5f54d.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.3bc5f54d.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.3bc5f54d.js.map",
+      "PackagePath": "staticwebassets/static/js/main.3bc5f54d.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.3d32bd45.js",
+      "PackagePath": "staticwebassets/static/js/main.3d32bd45.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.3d32bd45.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.3d32bd45.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.3d32bd45.js.map",
+      "PackagePath": "staticwebassets/static/js/main.3d32bd45.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.3d3f6e13.js",
+      "PackagePath": "staticwebassets/static/js/main.3d3f6e13.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.3d3f6e13.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.3d3f6e13.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.3d3f6e13.js.map",
+      "PackagePath": "staticwebassets/static/js/main.3d3f6e13.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.3f1ba72e.js",
+      "PackagePath": "staticwebassets/static/js/main.3f1ba72e.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.3f1ba72e.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.3f1ba72e.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.3f1ba72e.js.map",
+      "PackagePath": "staticwebassets/static/js/main.3f1ba72e.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.41f0be65.js",
+      "PackagePath": "staticwebassets/static/js/main.41f0be65.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.41f0be65.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.41f0be65.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.41f0be65.js.map",
+      "PackagePath": "staticwebassets/static/js/main.41f0be65.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.4330c216.js",
+      "PackagePath": "staticwebassets/static/js/main.4330c216.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.4330c216.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.4330c216.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.4330c216.js.map",
+      "PackagePath": "staticwebassets/static/js/main.4330c216.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.43c145c6.js",
+      "PackagePath": "staticwebassets/static/js/main.43c145c6.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.43c145c6.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.43c145c6.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.43c145c6.js.map",
+      "PackagePath": "staticwebassets/static/js/main.43c145c6.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.489d8d47.js",
+      "PackagePath": "staticwebassets/static/js/main.489d8d47.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.489d8d47.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.489d8d47.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.489d8d47.js.map",
+      "PackagePath": "staticwebassets/static/js/main.489d8d47.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.4a98e75c.js",
+      "PackagePath": "staticwebassets/static/js/main.4a98e75c.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.4a98e75c.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.4a98e75c.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.4a98e75c.js.map",
+      "PackagePath": "staticwebassets/static/js/main.4a98e75c.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.4af4da86.js",
+      "PackagePath": "staticwebassets/static/js/main.4af4da86.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.4af4da86.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.4af4da86.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.4af4da86.js.map",
+      "PackagePath": "staticwebassets/static/js/main.4af4da86.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.4c0d0155.js",
+      "PackagePath": "staticwebassets/static/js/main.4c0d0155.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.4c0d0155.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.4c0d0155.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.4c0d0155.js.map",
+      "PackagePath": "staticwebassets/static/js/main.4c0d0155.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.4ec23152.js",
+      "PackagePath": "staticwebassets/static/js/main.4ec23152.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.4ec23152.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.4ec23152.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.4ec23152.js.map",
+      "PackagePath": "staticwebassets/static/js/main.4ec23152.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.51082790.js",
+      "PackagePath": "staticwebassets/static/js/main.51082790.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.51082790.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.51082790.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.51082790.js.map",
+      "PackagePath": "staticwebassets/static/js/main.51082790.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.52d88d1f.js",
+      "PackagePath": "staticwebassets/static/js/main.52d88d1f.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.52d88d1f.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.52d88d1f.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.52d88d1f.js.map",
+      "PackagePath": "staticwebassets/static/js/main.52d88d1f.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.560331d3.js",
+      "PackagePath": "staticwebassets/static/js/main.560331d3.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.560331d3.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.560331d3.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.560331d3.js.map",
+      "PackagePath": "staticwebassets/static/js/main.560331d3.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.56956110.js",
+      "PackagePath": "staticwebassets/static/js/main.56956110.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.56956110.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.56956110.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.56956110.js.map",
+      "PackagePath": "staticwebassets/static/js/main.56956110.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.56b5df83.js",
+      "PackagePath": "staticwebassets/static/js/main.56b5df83.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.56b5df83.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.56b5df83.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.56b5df83.js.map",
+      "PackagePath": "staticwebassets/static/js/main.56b5df83.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.612e3a5a.js",
+      "PackagePath": "staticwebassets/static/js/main.612e3a5a.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.612e3a5a.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.612e3a5a.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.612e3a5a.js.map",
+      "PackagePath": "staticwebassets/static/js/main.612e3a5a.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.634d297e.js",
+      "PackagePath": "staticwebassets/static/js/main.634d297e.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.634d297e.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.634d297e.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.634d297e.js.map",
+      "PackagePath": "staticwebassets/static/js/main.634d297e.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.6465054b.js",
+      "PackagePath": "staticwebassets/static/js/main.6465054b.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.6465054b.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.6465054b.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.6465054b.js.map",
+      "PackagePath": "staticwebassets/static/js/main.6465054b.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.655c87dd.js",
+      "PackagePath": "staticwebassets/static/js/main.655c87dd.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.655c87dd.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.655c87dd.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.655c87dd.js.map",
+      "PackagePath": "staticwebassets/static/js/main.655c87dd.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.65ae2b43.js",
+      "PackagePath": "staticwebassets/static/js/main.65ae2b43.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.65ae2b43.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.65ae2b43.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.65ae2b43.js.map",
+      "PackagePath": "staticwebassets/static/js/main.65ae2b43.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.663aee11.js",
+      "PackagePath": "staticwebassets/static/js/main.663aee11.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.663aee11.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.663aee11.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.663aee11.js.map",
+      "PackagePath": "staticwebassets/static/js/main.663aee11.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.66e62463.js",
+      "PackagePath": "staticwebassets/static/js/main.66e62463.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.66e62463.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.66e62463.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.66e62463.js.map",
+      "PackagePath": "staticwebassets/static/js/main.66e62463.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.689e5959.js",
+      "PackagePath": "staticwebassets/static/js/main.689e5959.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.689e5959.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.689e5959.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.689e5959.js.map",
+      "PackagePath": "staticwebassets/static/js/main.689e5959.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.690f5f1a.js",
+      "PackagePath": "staticwebassets/static/js/main.690f5f1a.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.690f5f1a.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.690f5f1a.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.690f5f1a.js.map",
+      "PackagePath": "staticwebassets/static/js/main.690f5f1a.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.6923e2be.js",
+      "PackagePath": "staticwebassets/static/js/main.6923e2be.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.6923e2be.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.6923e2be.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.6923e2be.js.map",
+      "PackagePath": "staticwebassets/static/js/main.6923e2be.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.6a87a94a.js",
+      "PackagePath": "staticwebassets/static/js/main.6a87a94a.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.6a87a94a.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.6a87a94a.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.6a87a94a.js.map",
+      "PackagePath": "staticwebassets/static/js/main.6a87a94a.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.6bb14d6d.js",
+      "PackagePath": "staticwebassets/static/js/main.6bb14d6d.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.6bb14d6d.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.6bb14d6d.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.6bb14d6d.js.map",
+      "PackagePath": "staticwebassets/static/js/main.6bb14d6d.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.6dfb04ff.js",
+      "PackagePath": "staticwebassets/static/js/main.6dfb04ff.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.6dfb04ff.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.6dfb04ff.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.6dfb04ff.js.map",
+      "PackagePath": "staticwebassets/static/js/main.6dfb04ff.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.6e7e8c9a.js",
+      "PackagePath": "staticwebassets/static/js/main.6e7e8c9a.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.6e7e8c9a.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.6e7e8c9a.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.6e7e8c9a.js.map",
+      "PackagePath": "staticwebassets/static/js/main.6e7e8c9a.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.705584fe.js",
+      "PackagePath": "staticwebassets/static/js/main.705584fe.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.705584fe.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.705584fe.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.705584fe.js.map",
+      "PackagePath": "staticwebassets/static/js/main.705584fe.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.7176fa93.js",
+      "PackagePath": "staticwebassets/static/js/main.7176fa93.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.7176fa93.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.7176fa93.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.7176fa93.js.map",
+      "PackagePath": "staticwebassets/static/js/main.7176fa93.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.7236c32d.js",
+      "PackagePath": "staticwebassets/static/js/main.7236c32d.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.7236c32d.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.7236c32d.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.7236c32d.js.map",
+      "PackagePath": "staticwebassets/static/js/main.7236c32d.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.7289b3e1.js",
+      "PackagePath": "staticwebassets/static/js/main.7289b3e1.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.7289b3e1.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.7289b3e1.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.7289b3e1.js.map",
+      "PackagePath": "staticwebassets/static/js/main.7289b3e1.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.738b144e.js",
+      "PackagePath": "staticwebassets/static/js/main.738b144e.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.738b144e.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.738b144e.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.738b144e.js.map",
+      "PackagePath": "staticwebassets/static/js/main.738b144e.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.74914710.js",
+      "PackagePath": "staticwebassets/static/js/main.74914710.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.74914710.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.74914710.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.74914710.js.map",
+      "PackagePath": "staticwebassets/static/js/main.74914710.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.74a8aebc.js",
+      "PackagePath": "staticwebassets/static/js/main.74a8aebc.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.74a8aebc.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.74a8aebc.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.74a8aebc.js.map",
+      "PackagePath": "staticwebassets/static/js/main.74a8aebc.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.74de5f5d.js",
+      "PackagePath": "staticwebassets/static/js/main.74de5f5d.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.74de5f5d.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.74de5f5d.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.74de5f5d.js.map",
+      "PackagePath": "staticwebassets/static/js/main.74de5f5d.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.74e68e37.js",
+      "PackagePath": "staticwebassets/static/js/main.74e68e37.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.74e68e37.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.74e68e37.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.74e68e37.js.map",
+      "PackagePath": "staticwebassets/static/js/main.74e68e37.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.7593f25d.js",
+      "PackagePath": "staticwebassets/static/js/main.7593f25d.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.7593f25d.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.7593f25d.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.7593f25d.js.map",
+      "PackagePath": "staticwebassets/static/js/main.7593f25d.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.76264dfd.js",
+      "PackagePath": "staticwebassets/static/js/main.76264dfd.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.76264dfd.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.76264dfd.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.76264dfd.js.map",
+      "PackagePath": "staticwebassets/static/js/main.76264dfd.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.770996a2.js",
+      "PackagePath": "staticwebassets/static/js/main.770996a2.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.770996a2.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.770996a2.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.770996a2.js.map",
+      "PackagePath": "staticwebassets/static/js/main.770996a2.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.790e8103.js",
+      "PackagePath": "staticwebassets/static/js/main.790e8103.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.790e8103.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.790e8103.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.790e8103.js.map",
+      "PackagePath": "staticwebassets/static/js/main.790e8103.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.79458f32.js",
+      "PackagePath": "staticwebassets/static/js/main.79458f32.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.79458f32.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.79458f32.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.79458f32.js.map",
+      "PackagePath": "staticwebassets/static/js/main.79458f32.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.7b2b20cc.js",
+      "PackagePath": "staticwebassets/static/js/main.7b2b20cc.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.7b2b20cc.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.7b2b20cc.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.7b2b20cc.js.map",
+      "PackagePath": "staticwebassets/static/js/main.7b2b20cc.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.7b86e485.js",
+      "PackagePath": "staticwebassets/static/js/main.7b86e485.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.7b86e485.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.7b86e485.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.7b86e485.js.map",
+      "PackagePath": "staticwebassets/static/js/main.7b86e485.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.7bfb7598.js",
+      "PackagePath": "staticwebassets/static/js/main.7bfb7598.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.7bfb7598.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.7bfb7598.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.7bfb7598.js.map",
+      "PackagePath": "staticwebassets/static/js/main.7bfb7598.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.7c943ca9.js",
+      "PackagePath": "staticwebassets/static/js/main.7c943ca9.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.7c943ca9.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.7c943ca9.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.7c943ca9.js.map",
+      "PackagePath": "staticwebassets/static/js/main.7c943ca9.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.7dccc27c.js",
+      "PackagePath": "staticwebassets/static/js/main.7dccc27c.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.7dccc27c.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.7dccc27c.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.7dccc27c.js.map",
+      "PackagePath": "staticwebassets/static/js/main.7dccc27c.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.7ed79e03.js",
+      "PackagePath": "staticwebassets/static/js/main.7ed79e03.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.7ed79e03.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.7ed79e03.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.7ed79e03.js.map",
+      "PackagePath": "staticwebassets/static/js/main.7ed79e03.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.81d0f48c.js",
+      "PackagePath": "staticwebassets/static/js/main.81d0f48c.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.81d0f48c.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.81d0f48c.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.81d0f48c.js.map",
+      "PackagePath": "staticwebassets/static/js/main.81d0f48c.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.84deacf9.js",
+      "PackagePath": "staticwebassets/static/js/main.84deacf9.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.84deacf9.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.84deacf9.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.84deacf9.js.map",
+      "PackagePath": "staticwebassets/static/js/main.84deacf9.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.87c8d4d3.js",
+      "PackagePath": "staticwebassets/static/js/main.87c8d4d3.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.87c8d4d3.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.87c8d4d3.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.87c8d4d3.js.map",
+      "PackagePath": "staticwebassets/static/js/main.87c8d4d3.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.887a6b9f.js",
+      "PackagePath": "staticwebassets/static/js/main.887a6b9f.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.887a6b9f.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.887a6b9f.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.887a6b9f.js.map",
+      "PackagePath": "staticwebassets/static/js/main.887a6b9f.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.8a8f0b76.js",
+      "PackagePath": "staticwebassets/static/js/main.8a8f0b76.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.8a8f0b76.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.8a8f0b76.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.8a8f0b76.js.map",
+      "PackagePath": "staticwebassets/static/js/main.8a8f0b76.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.8c459866.js",
+      "PackagePath": "staticwebassets/static/js/main.8c459866.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.8c459866.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.8c459866.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.8c459866.js.map",
+      "PackagePath": "staticwebassets/static/js/main.8c459866.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.8c55a4c0.js",
+      "PackagePath": "staticwebassets/static/js/main.8c55a4c0.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.8c55a4c0.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.8c55a4c0.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.8c55a4c0.js.map",
+      "PackagePath": "staticwebassets/static/js/main.8c55a4c0.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.8c80bb6b.js",
+      "PackagePath": "staticwebassets/static/js/main.8c80bb6b.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.8c80bb6b.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.8c80bb6b.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.8c80bb6b.js.map",
+      "PackagePath": "staticwebassets/static/js/main.8c80bb6b.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.8cff251e.js",
+      "PackagePath": "staticwebassets/static/js/main.8cff251e.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.8cff251e.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.8cff251e.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.8cff251e.js.map",
+      "PackagePath": "staticwebassets/static/js/main.8cff251e.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.8ee1f40e.js",
+      "PackagePath": "staticwebassets/static/js/main.8ee1f40e.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.8ee1f40e.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.8ee1f40e.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.8ee1f40e.js.map",
+      "PackagePath": "staticwebassets/static/js/main.8ee1f40e.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.918ee8b4.js",
+      "PackagePath": "staticwebassets/static/js/main.918ee8b4.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.918ee8b4.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.918ee8b4.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.918ee8b4.js.map",
+      "PackagePath": "staticwebassets/static/js/main.918ee8b4.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.923fe5db.js",
+      "PackagePath": "staticwebassets/static/js/main.923fe5db.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.923fe5db.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.923fe5db.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.923fe5db.js.map",
+      "PackagePath": "staticwebassets/static/js/main.923fe5db.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.927920cb.js",
+      "PackagePath": "staticwebassets/static/js/main.927920cb.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.927920cb.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.927920cb.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.927920cb.js.map",
+      "PackagePath": "staticwebassets/static/js/main.927920cb.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.96d0079b.js",
+      "PackagePath": "staticwebassets/static/js/main.96d0079b.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.96d0079b.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.96d0079b.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.96d0079b.js.map",
+      "PackagePath": "staticwebassets/static/js/main.96d0079b.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.97231f1e.js",
+      "PackagePath": "staticwebassets/static/js/main.97231f1e.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.97231f1e.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.97231f1e.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.97231f1e.js.map",
+      "PackagePath": "staticwebassets/static/js/main.97231f1e.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.97f7407f.js",
+      "PackagePath": "staticwebassets/static/js/main.97f7407f.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.97f7407f.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.97f7407f.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.97f7407f.js.map",
+      "PackagePath": "staticwebassets/static/js/main.97f7407f.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.981842d3.js",
+      "PackagePath": "staticwebassets/static/js/main.981842d3.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.981842d3.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.981842d3.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.981842d3.js.map",
+      "PackagePath": "staticwebassets/static/js/main.981842d3.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.9922bb8a.js",
+      "PackagePath": "staticwebassets/static/js/main.9922bb8a.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.9922bb8a.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.9922bb8a.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.9922bb8a.js.map",
+      "PackagePath": "staticwebassets/static/js/main.9922bb8a.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.9b6caebc.js",
+      "PackagePath": "staticwebassets/static/js/main.9b6caebc.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.9b6caebc.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.9b6caebc.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.9b6caebc.js.map",
+      "PackagePath": "staticwebassets/static/js/main.9b6caebc.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.9f45a58f.js",
+      "PackagePath": "staticwebassets/static/js/main.9f45a58f.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.9f45a58f.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.9f45a58f.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.9f45a58f.js.map",
+      "PackagePath": "staticwebassets/static/js/main.9f45a58f.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.a18db961.js",
+      "PackagePath": "staticwebassets/static/js/main.a18db961.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.a18db961.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.a18db961.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.a18db961.js.map",
+      "PackagePath": "staticwebassets/static/js/main.a18db961.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.a1b08125.js",
+      "PackagePath": "staticwebassets/static/js/main.a1b08125.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.a1b08125.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.a1b08125.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.a1b08125.js.map",
+      "PackagePath": "staticwebassets/static/js/main.a1b08125.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.a26c8ddf.js",
+      "PackagePath": "staticwebassets/static/js/main.a26c8ddf.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.a26c8ddf.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.a26c8ddf.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.a26c8ddf.js.map",
+      "PackagePath": "staticwebassets/static/js/main.a26c8ddf.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.a5b750ef.js",
+      "PackagePath": "staticwebassets/static/js/main.a5b750ef.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.a5b750ef.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.a5b750ef.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.a5b750ef.js.map",
+      "PackagePath": "staticwebassets/static/js/main.a5b750ef.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.a62dcf4f.js",
+      "PackagePath": "staticwebassets/static/js/main.a62dcf4f.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.a62dcf4f.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.a62dcf4f.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.a62dcf4f.js.map",
+      "PackagePath": "staticwebassets/static/js/main.a62dcf4f.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.a6620187.js",
+      "PackagePath": "staticwebassets/static/js/main.a6620187.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.a6620187.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.a6620187.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.a6620187.js.map",
+      "PackagePath": "staticwebassets/static/js/main.a6620187.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.a70612b1.js",
+      "PackagePath": "staticwebassets/static/js/main.a70612b1.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.a70612b1.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.a70612b1.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.a70612b1.js.map",
+      "PackagePath": "staticwebassets/static/js/main.a70612b1.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.a8260bd4.js",
+      "PackagePath": "staticwebassets/static/js/main.a8260bd4.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.a8260bd4.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.a8260bd4.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.a8260bd4.js.map",
+      "PackagePath": "staticwebassets/static/js/main.a8260bd4.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.a9769afc.js",
+      "PackagePath": "staticwebassets/static/js/main.a9769afc.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.a9769afc.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.a9769afc.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.a9769afc.js.map",
+      "PackagePath": "staticwebassets/static/js/main.a9769afc.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.a9a66f77.js",
+      "PackagePath": "staticwebassets/static/js/main.a9a66f77.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.a9a66f77.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.a9a66f77.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.a9a66f77.js.map",
+      "PackagePath": "staticwebassets/static/js/main.a9a66f77.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.aa440f4b.js",
+      "PackagePath": "staticwebassets/static/js/main.aa440f4b.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.aa440f4b.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.aa440f4b.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.aa440f4b.js.map",
+      "PackagePath": "staticwebassets/static/js/main.aa440f4b.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.ab438327.js",
+      "PackagePath": "staticwebassets/static/js/main.ab438327.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.ab438327.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.ab438327.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.ab438327.js.map",
+      "PackagePath": "staticwebassets/static/js/main.ab438327.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.ab9305a8.js",
+      "PackagePath": "staticwebassets/static/js/main.ab9305a8.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.ab9305a8.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.ab9305a8.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.ab9305a8.js.map",
+      "PackagePath": "staticwebassets/static/js/main.ab9305a8.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.ad4716d2.js",
+      "PackagePath": "staticwebassets/static/js/main.ad4716d2.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.ad4716d2.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.ad4716d2.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.ad4716d2.js.map",
+      "PackagePath": "staticwebassets/static/js/main.ad4716d2.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.adcadef1.js",
+      "PackagePath": "staticwebassets/static/js/main.adcadef1.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.adcadef1.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.adcadef1.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.adcadef1.js.map",
+      "PackagePath": "staticwebassets/static/js/main.adcadef1.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.aeae4901.js",
+      "PackagePath": "staticwebassets/static/js/main.aeae4901.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.aeae4901.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.aeae4901.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.aeae4901.js.map",
+      "PackagePath": "staticwebassets/static/js/main.aeae4901.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.aebcef84.js",
+      "PackagePath": "staticwebassets/static/js/main.aebcef84.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.aebcef84.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.aebcef84.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.aebcef84.js.map",
+      "PackagePath": "staticwebassets/static/js/main.aebcef84.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.aee2a5e5.js",
+      "PackagePath": "staticwebassets/static/js/main.aee2a5e5.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.aee2a5e5.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.aee2a5e5.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.aee2a5e5.js.map",
+      "PackagePath": "staticwebassets/static/js/main.aee2a5e5.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.b06524ba.js",
+      "PackagePath": "staticwebassets/static/js/main.b06524ba.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.b06524ba.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.b06524ba.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.b06524ba.js.map",
+      "PackagePath": "staticwebassets/static/js/main.b06524ba.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.b311ed79.js",
+      "PackagePath": "staticwebassets/static/js/main.b311ed79.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.b311ed79.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.b311ed79.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.b311ed79.js.map",
+      "PackagePath": "staticwebassets/static/js/main.b311ed79.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.b41a146f.js",
+      "PackagePath": "staticwebassets/static/js/main.b41a146f.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.b41a146f.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.b41a146f.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.b41a146f.js.map",
+      "PackagePath": "staticwebassets/static/js/main.b41a146f.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.b44cc051.js",
+      "PackagePath": "staticwebassets/static/js/main.b44cc051.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.b44cc051.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.b44cc051.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.b44cc051.js.map",
+      "PackagePath": "staticwebassets/static/js/main.b44cc051.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.b44fc604.js",
+      "PackagePath": "staticwebassets/static/js/main.b44fc604.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.b44fc604.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.b44fc604.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.b44fc604.js.map",
+      "PackagePath": "staticwebassets/static/js/main.b44fc604.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.b52fa55a.js",
+      "PackagePath": "staticwebassets/static/js/main.b52fa55a.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.b52fa55a.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.b52fa55a.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.b52fa55a.js.map",
+      "PackagePath": "staticwebassets/static/js/main.b52fa55a.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.b7101902.js",
+      "PackagePath": "staticwebassets/static/js/main.b7101902.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.b7101902.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.b7101902.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.b7101902.js.map",
+      "PackagePath": "staticwebassets/static/js/main.b7101902.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.b7811216.js",
+      "PackagePath": "staticwebassets/static/js/main.b7811216.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.b7811216.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.b7811216.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.b7811216.js.map",
+      "PackagePath": "staticwebassets/static/js/main.b7811216.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.b8cff2a0.js",
+      "PackagePath": "staticwebassets/static/js/main.b8cff2a0.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.b8cff2a0.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.b8cff2a0.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.b8cff2a0.js.map",
+      "PackagePath": "staticwebassets/static/js/main.b8cff2a0.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.bf5005e3.js",
+      "PackagePath": "staticwebassets/static/js/main.bf5005e3.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.bf5005e3.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.bf5005e3.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.bf5005e3.js.map",
+      "PackagePath": "staticwebassets/static/js/main.bf5005e3.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.c7ca15bd.js",
+      "PackagePath": "staticwebassets/static/js/main.c7ca15bd.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.c7ca15bd.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.c7ca15bd.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.c7ca15bd.js.map",
+      "PackagePath": "staticwebassets/static/js/main.c7ca15bd.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.c81fac7d.js",
+      "PackagePath": "staticwebassets/static/js/main.c81fac7d.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.c81fac7d.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.c81fac7d.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.c81fac7d.js.map",
+      "PackagePath": "staticwebassets/static/js/main.c81fac7d.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.c94935dc.js",
+      "PackagePath": "staticwebassets/static/js/main.c94935dc.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.c94935dc.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.c94935dc.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.c94935dc.js.map",
+      "PackagePath": "staticwebassets/static/js/main.c94935dc.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.ca759caa.js",
+      "PackagePath": "staticwebassets/static/js/main.ca759caa.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.ca759caa.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.ca759caa.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.ca759caa.js.map",
+      "PackagePath": "staticwebassets/static/js/main.ca759caa.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.cdbd7102.js",
+      "PackagePath": "staticwebassets/static/js/main.cdbd7102.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.cdbd7102.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.cdbd7102.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.cdbd7102.js.map",
+      "PackagePath": "staticwebassets/static/js/main.cdbd7102.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.ce8c5ce8.js",
+      "PackagePath": "staticwebassets/static/js/main.ce8c5ce8.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.ce8c5ce8.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.ce8c5ce8.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.ce8c5ce8.js.map",
+      "PackagePath": "staticwebassets/static/js/main.ce8c5ce8.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.d1c7c406.js",
+      "PackagePath": "staticwebassets/static/js/main.d1c7c406.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.d1c7c406.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.d1c7c406.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.d1c7c406.js.map",
+      "PackagePath": "staticwebassets/static/js/main.d1c7c406.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.d223a7eb.js",
+      "PackagePath": "staticwebassets/static/js/main.d223a7eb.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.d223a7eb.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.d223a7eb.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.d223a7eb.js.map",
+      "PackagePath": "staticwebassets/static/js/main.d223a7eb.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.d2f7b04b.js",
+      "PackagePath": "staticwebassets/static/js/main.d2f7b04b.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.d2f7b04b.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.d2f7b04b.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.d2f7b04b.js.map",
+      "PackagePath": "staticwebassets/static/js/main.d2f7b04b.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.d4624443.js",
+      "PackagePath": "staticwebassets/static/js/main.d4624443.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.d4624443.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.d4624443.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.d4624443.js.map",
+      "PackagePath": "staticwebassets/static/js/main.d4624443.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.d5370f85.js",
+      "PackagePath": "staticwebassets/static/js/main.d5370f85.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.d5370f85.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.d5370f85.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.d5370f85.js.map",
+      "PackagePath": "staticwebassets/static/js/main.d5370f85.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.d5a50234.js",
+      "PackagePath": "staticwebassets/static/js/main.d5a50234.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.d5a50234.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.d5a50234.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.d5a50234.js.map",
+      "PackagePath": "staticwebassets/static/js/main.d5a50234.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.d5ed44ef.js",
+      "PackagePath": "staticwebassets/static/js/main.d5ed44ef.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.d5ed44ef.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.d5ed44ef.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.d5ed44ef.js.map",
+      "PackagePath": "staticwebassets/static/js/main.d5ed44ef.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.d8b28f51.js",
+      "PackagePath": "staticwebassets/static/js/main.d8b28f51.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.d8b28f51.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.d8b28f51.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.d8b28f51.js.map",
+      "PackagePath": "staticwebassets/static/js/main.d8b28f51.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.db2ab19b.js",
+      "PackagePath": "staticwebassets/static/js/main.db2ab19b.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.db2ab19b.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.db2ab19b.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.db2ab19b.js.map",
+      "PackagePath": "staticwebassets/static/js/main.db2ab19b.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.dc14cadc.js",
+      "PackagePath": "staticwebassets/static/js/main.dc14cadc.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.dc14cadc.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.dc14cadc.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.dc14cadc.js.map",
+      "PackagePath": "staticwebassets/static/js/main.dc14cadc.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.e32e27c0.js",
+      "PackagePath": "staticwebassets/static/js/main.e32e27c0.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.e32e27c0.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.e32e27c0.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.e32e27c0.js.map",
+      "PackagePath": "staticwebassets/static/js/main.e32e27c0.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.e408de63.js",
+      "PackagePath": "staticwebassets/static/js/main.e408de63.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.e408de63.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.e408de63.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.e408de63.js.map",
+      "PackagePath": "staticwebassets/static/js/main.e408de63.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.e448c50e.js",
+      "PackagePath": "staticwebassets/static/js/main.e448c50e.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.e448c50e.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.e448c50e.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.e448c50e.js.map",
+      "PackagePath": "staticwebassets/static/js/main.e448c50e.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.ead56a32.js",
+      "PackagePath": "staticwebassets/static/js/main.ead56a32.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.ead56a32.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.ead56a32.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.ead56a32.js.map",
+      "PackagePath": "staticwebassets/static/js/main.ead56a32.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.ebe30b1f.js",
+      "PackagePath": "staticwebassets/static/js/main.ebe30b1f.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.ebe30b1f.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.ebe30b1f.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.ebe30b1f.js.map",
+      "PackagePath": "staticwebassets/static/js/main.ebe30b1f.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.edd9c7e1.js",
+      "PackagePath": "staticwebassets/static/js/main.edd9c7e1.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.edd9c7e1.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.edd9c7e1.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.edd9c7e1.js.map",
+      "PackagePath": "staticwebassets/static/js/main.edd9c7e1.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.f4855a9a.js",
+      "PackagePath": "staticwebassets/static/js/main.f4855a9a.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.f4855a9a.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.f4855a9a.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.f4855a9a.js.map",
+      "PackagePath": "staticwebassets/static/js/main.f4855a9a.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.f599d1e3.js",
+      "PackagePath": "staticwebassets/static/js/main.f599d1e3.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.f599d1e3.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.f599d1e3.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.f599d1e3.js.map",
+      "PackagePath": "staticwebassets/static/js/main.f599d1e3.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.f72a6f86.js",
+      "PackagePath": "staticwebassets/static/js/main.f72a6f86.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.f72a6f86.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.f72a6f86.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.f72a6f86.js.map",
+      "PackagePath": "staticwebassets/static/js/main.f72a6f86.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.f90492ae.js",
+      "PackagePath": "staticwebassets/static/js/main.f90492ae.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.f90492ae.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.f90492ae.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.f90492ae.js.map",
+      "PackagePath": "staticwebassets/static/js/main.f90492ae.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.f9c65ea0.js",
+      "PackagePath": "staticwebassets/static/js/main.f9c65ea0.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.f9c65ea0.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.f9c65ea0.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.f9c65ea0.js.map",
+      "PackagePath": "staticwebassets/static/js/main.f9c65ea0.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.fa47b529.js",
+      "PackagePath": "staticwebassets/static/js/main.fa47b529.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.fa47b529.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.fa47b529.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.fa47b529.js.map",
+      "PackagePath": "staticwebassets/static/js/main.fa47b529.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.facd4cd5.js",
+      "PackagePath": "staticwebassets/static/js/main.facd4cd5.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.facd4cd5.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.facd4cd5.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.facd4cd5.js.map",
+      "PackagePath": "staticwebassets/static/js/main.facd4cd5.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.fb66199c.js",
+      "PackagePath": "staticwebassets/static/js/main.fb66199c.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.fb66199c.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.fb66199c.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.fb66199c.js.map",
+      "PackagePath": "staticwebassets/static/js/main.fb66199c.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.fc005293.js",
+      "PackagePath": "staticwebassets/static/js/main.fc005293.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.fc005293.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.fc005293.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.fc005293.js.map",
+      "PackagePath": "staticwebassets/static/js/main.fc005293.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.fd195a3d.js",
+      "PackagePath": "staticwebassets/static/js/main.fd195a3d.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.fd195a3d.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.fd195a3d.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.fd195a3d.js.map",
+      "PackagePath": "staticwebassets/static/js/main.fd195a3d.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.fdd416c6.js",
+      "PackagePath": "staticwebassets/static/js/main.fdd416c6.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.fdd416c6.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.fdd416c6.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.fdd416c6.js.map",
+      "PackagePath": "staticwebassets/static/js/main.fdd416c6.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.fe7fbe7a.js",
+      "PackagePath": "staticwebassets/static/js/main.fe7fbe7a.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.fe7fbe7a.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.fe7fbe7a.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.fe7fbe7a.js.map",
+      "PackagePath": "staticwebassets/static/js/main.fe7fbe7a.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.fe90ea61.js",
+      "PackagePath": "staticwebassets/static/js/main.fe90ea61.js"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.fe90ea61.js.LICENSE.txt",
+      "PackagePath": "staticwebassets/static/js/main.fe90ea61.js.LICENSE.txt"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/js/main.fe90ea61.js.map",
+      "PackagePath": "staticwebassets/static/js/main.fe90ea61.js.map"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/media/Rapid_Json.a243722d006905e977cb.mp4",
+      "PackagePath": "staticwebassets/static/media/Rapid_Json.a243722d006905e977cb.mp4"
+    },
+    {
+      "Id": "/home/fnky/C0de/C#/NET/MemoryColourMaster/wwwroot/static/media/VulkanEngine_thumbnail.ba8b9b580b4f975891bf.png",
+      "PackagePath": "staticwebassets/static/media/VulkanEngine_thumbnail.ba8b9b580b4f975891bf.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.ReactAspNetApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.ReactAspNetApp.props",
+      "PackagePath": "build\\ReactAspNetApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ReactAspNetApp.props",
+      "PackagePath": "buildMultiTargeting\\ReactAspNetApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ReactAspNetApp.props",
+      "PackagePath": "buildTransitive\\ReactAspNetApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
